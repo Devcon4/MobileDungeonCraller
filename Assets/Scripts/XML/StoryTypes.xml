@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<StoryTypes>
+	<Story>
+		<Setting> Planet </Setting>
+		<Characters> Sara </Characters>
+		<Characters> Axel </Characters>
+		<Characters> Marks </Characters>
+		<Characters> Max </Characters>
+	</Story>
+	<Story>
+		<Setting> Ship </Setting>
+		<Characters> Axel </Characters>
+		<Characters> Marks </Characters>
+	</Story>
+	<Quest>
+		<Setting> Cave </Setting>
+		<Characters> Sara </Characters>
+		<Characters> Max </Characters>
+	</Quest>
+	<Story>
+		<Setting> Astroids </Setting>
+		<Characters> Axel </Characters>
+		<Characters> Marks </Characters>
+	</Story>	
+	<Quest>
+		<Setting> Planet </Setting>
+		<Characters> Sara </Characters>
+		<Characters> Axel </Characters>
+		<Characters> Max </Characters>
+	</Quest>	
+	<Story>
+		<Setting> Cave </Setting>
+		<Characters> Marks </Characters>
+		<Characters> Max </Characters>
+	</Story>
+</StoryTypes>

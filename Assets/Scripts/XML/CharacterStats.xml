@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<CharacterStats>
+	<Axel>
+		<Damage>5</Damage>
+		<BaseRateOfFire>7</BaseRateOfFire>
+		<Accuracy>11</Accuracy>
+		<MovementSpeed>3</MovementSpeed>
+	</Axel>
+	<Marks>
+		<Damage>3</Damage>
+		<BaseRateOfFire>6</BaseRateOfFire>
+		<Accuracy>2</Accuracy>
+		<MovementSpeed>6</MovementSpeed>
+	</Marks>
+	<Max>
+		<Damage>4</Damage>
+		<BaseRateOfFire>4</BaseRateOfFire>
+		<Accuracy>5</Accuracy>
+		<MovementSpeed>4</MovementSpeed>
+	</Max>
+	<Sarah>
+		<Damage>8</Damage>
+		<BaseRateOfFire>9</BaseRateOfFire>
+		<Accuracy>8</Accuracy>
+		<MovementSpeed>3</MovementSpeed>
+	</Sarah>
+</CharacterStats>
